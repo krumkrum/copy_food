@@ -1,0 +1,156 @@
+{
+
+  "pops": [
+    {
+      "name":"Комбо с воппером Дж.",
+      "text":"text",
+      "price": 189,
+      "weight": 0.0,
+      "pic": "assets/images/pops/combo_vopper_jun.png"
+
+    },
+    {
+      "name":"Комбо на двоих с Воппером",
+      "text":"text",
+      "price": 599,
+      "weight": 0.0,
+      "pic": "assets/images/pops/combo_vopper_twice.png"
+
+    },
+    {
+      "name":"Комбо на двоих с Чизбургером",
+      "text":"text",
+      "price": 399,
+      "weight": 0.0,
+      "pic": "assets/images/pops/combo_chesse_twice.png"
+
+
+    },
+    {
+      "name":"Большое комбо на двоих",
+      "text":"text",
+      "price": 249,
+      "weight": 274.8,
+      "pic": "assets/images/pops/combo_big_king_twice.png"
+
+    }
+
+
+  ],
+
+  "combo": [
+    {
+      "name":"Окрыляющие комбо",
+      "text":"text",
+      "price": 529,
+      "weight": 0.0,
+      "pic": "assets/images/combo/combo_wing.png"
+
+    },
+
+    {
+      "name":"Комбо на троих с двйоным Чизбургером",
+      "text":"text",
+      "price": 899,
+      "weight": 0.0,
+      "pic": "assets/images/combo/combo_triple.png"
+
+    },
+    {
+      "name":"Комбо на двоих с Воппер Роллом",
+      "text":"text",
+      "price": 559,
+      "weight": 0.0,
+      "pic": "assets/images/combo/twice_vopper_combo.png"
+
+    },
+    {
+      "name":"Комбо под сериальчик на троих",
+      "text":"text",
+      "price": 999,
+      "weight": 0.0,
+      "pic": "assets/images/combo/combo_for_cinema.png"
+
+    },
+    {
+      "name":"Комбо на двоих с Воппером",
+      "text":"text",
+      "price": 20,
+      "weight": 0.0,
+      "pic": "assets/images/combo/combo_vopper_jun.png"
+
+    }
+  ],
+
+  "shrimp": [
+    {
+      "name":"Шримп Кинг",
+      "text":"text",
+      "price": 229,
+      "weight": 182.0,
+      "pic": "assets/images/shrimp/king_shrimps.jpeg"
+
+    },
+    {
+      "name":"Шримп Воппер",
+      "text":"text",
+      "price": 299,
+      "weight": 332.0,
+      "pic": "assets/images/shrimp/shrimp_vopper.jpeg"
+
+    },
+    {
+      "name":"Кинг Букет 'Креветки XXL' ",
+      "text":"text",
+      "price": 999,
+      "weight": 480.0,
+      "pic": "assets/images/shrimp/king_buck_XXL.jpeg"
+
+    },
+    {
+      "name":"Кинг Букет 'Креветки'",
+      "text":"text",
+      "price": 499,
+      "weight": 470.0,
+      "pic": "assets/images/shrimp/king_buck_shrimps.jpeg"
+
+    },
+    {
+      "name":"Шримп Ролл",
+      "text":"text",
+      "price": 209,
+      "weight": 167.0,
+      "pic": "assets/images/shrimp/shrimp_roll.png"
+
+    }
+
+  ],
+
+  "grill":[
+    {
+      "name":"Двойной Воппер Гриль XXL",
+      "text":"text",
+      "price": 369,
+      "weight": 0.0,
+      "pic": "assets/images/grill/double_vopper_grill_XXL.jpeg"
+
+    },
+    {
+      "name":"Двойной Биг Кинг Гриль",
+      "text":"text",
+      "price": 309,
+      "weight": 0.0,
+      "pic": "assets/images/grill/big_double_king_vopper.jpeg"
+
+    },
+    {
+      "name":"Гриль чике BBQ",
+      "text":"text",
+      "price": 149,
+      "weight": 0.0,
+      "pic": "assets/images/pops/grill_chicken_bbq.jpeg"
+
+    }
+  ]
+
+}
